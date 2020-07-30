@@ -1,0 +1,17 @@
+/* Tags */
+h1{
+  color: purple;
+  size: 50rem;
+  text-align: center;
+}
+
+/* classes */
+footer{
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  font-size: 2rem;
+  width: 100%;
+  background-color: cyan;
+  /* margin: 0 5; */
+}
